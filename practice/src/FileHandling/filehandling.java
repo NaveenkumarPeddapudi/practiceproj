@@ -47,7 +47,7 @@ public class filehandling
             File f=new File("file1.txt");
             
             BufferedReader bf=new BufferedReader(new InputStreamReader(System.in));
-            //For writing new Content Everytime you run
+            
             FileWriter f0 =null;
             if(s.equalsIgnoreCase("w"))
             {
