@@ -9,3 +9,9 @@ practiceproj --> practice--> src-->
 
 
 3  : File Handling
+
+
+4. : Longest Increasing Subsquence
+
+
+5. bug fix in Application
