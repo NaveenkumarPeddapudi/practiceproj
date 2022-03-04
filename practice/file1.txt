@@ -1,3 +1,3 @@
-This program deals about file handling
+this project is for file handling 
 
-read, write, and append
+it explains read ,write and append mode in the file handling
