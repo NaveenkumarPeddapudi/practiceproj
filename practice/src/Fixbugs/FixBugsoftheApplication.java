@@ -11,7 +11,7 @@ public class FixBugsoftheApplication {
         System.out.println("\n**************************************************************************\n");
         System.out.println("\t Welcome to My Expenditure Data \n");
         System.out.println("\t PEDDAPUDI NAVEEN KUMAR \n");
-        System.out.println("**************************************************************************");
+        System.out.println("\n**************************************************************************\n");
         optionsSelection();
 
     }
